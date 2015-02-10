@@ -46,11 +46,11 @@ public class pdaModel{
     }
 
     public void setCreepFactor(boolean creepFactor){
-        if((minAge >= baeAge) && (maxAge<=baeAge)){
-            creepFactor = true;
+        if((minAge <= baeAge) && (maxAge>=baeAge)){
+            creepFactor = false;
         }
         else{
-            creepFactor = false;
+            creepFactor = true;
         }
         this.creepFactor = creepFactor;
     }

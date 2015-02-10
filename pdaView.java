@@ -1,6 +1,7 @@
 public class pdaView{
     public void printPDA(boolean creepFactor){
-        if(creepFactor = true){
+        //System.out.println(creepFactor);
+        if(creepFactor == false){
             System.out.println("It is ok to date!");
         }
         else{
