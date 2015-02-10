@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=model\ view
+comment0.target=pdaController(pdaModel,\ pdaView)
+comment1.params=yourAge
+comment1.target=void\ setYourAge(int)
+comment2.params=
+comment2.target=int\ getYourAge()
+comment3.params=minAge
+comment3.target=void\ setMinAge(int)
+comment4.params=
+comment4.target=int\ getMinAge()
+comment5.params=maxAge
+comment5.target=void\ setMaxAge(int)
+comment6.params=
+comment6.target=int\ getMaxAge()
+comment7.params=creepFactor
+comment7.target=void\ setCreepFactor(boolean)
+comment8.params=
+comment8.target=boolean\ getCreepFactor()
+comment9.params=
+comment9.target=void\ updateView()
+numComments=10

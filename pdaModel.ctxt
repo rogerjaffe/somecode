@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getYourAge()
+comment1.params=yourAge
+comment1.target=void\ setYourAge(int)
+comment10.params=str\ str2
+comment10.target=boolean\ isNumeric(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getMinAge()
+comment3.params=minAge
+comment3.target=void\ setMinAge(int)
+comment4.params=
+comment4.target=int\ getMaxAge()
+comment5.params=maxAge
+comment5.target=void\ setMaxAge(int)
+comment6.params=
+comment6.target=int\ getBaeAge()
+comment7.params=baeAge
+comment7.target=void\ setBaeAge(int)
+comment8.params=
+comment8.target=boolean\ getCreepFactor()
+comment9.params=creepFactor
+comment9.target=void\ setCreepFactor(boolean)
+numComments=11
