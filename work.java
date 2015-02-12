@@ -52,7 +52,7 @@ public class work{
         //System.out.println("baeAge is " + model.getBaeAge());        
         //System.out.println("maxAge is " + model.getMaxAge());
         //System.out.println("minAge is " + model.getMinAge());
-        System.out.println("Your permissable dating age range is from " + model.getMinAge() + " to " + model.getMaxAge() + ".");
+        System.out.println("Your permissible dating age range is from " + model.getMinAge() + " to " + model.getMaxAge() + ".");
         //System.out.println("creepFactor is " + model.getCreepFactor());
 
         return model;
