@@ -47,7 +47,7 @@ public class pdaModel{
      * @param integer minAge which is the minumum age of the person the user can date
      */ 
     public void setMinAge(int minAge){
-        minAge = (yourAge/2) + 7;
+        minAge = (int)(((double)yourAge/2.0) + 7.5);
         this.minAge = minAge;
     }
 
